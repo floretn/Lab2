@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b81376b-f358-41f3-8c52-fa31488d6121" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4X0rdZoknaAgrt8UX3MA0E0PC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Laboratornaya2.iml" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dop.circle" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dop">
+    <configuration name="Dop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.dop.Dop" />
+      <module name="Laboratornaya2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dop.dop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.tak.Tak" />
+      <module name="Laboratornaya2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.tak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch1.task1.Task1" />
+      <module name="Laboratornaya2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch1.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.task16.Task16" />
+      <module name="Laboratornaya2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch16.task16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3.task3.Task3" />
+      <module name="Laboratornaya2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch3.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dop" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task16" />
+        <item itemvalue="Application.Tak" />
+        <item itemvalue="Application.Task3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b81376b-f358-41f3-8c52-fa31488d6121" name="Default Changelist" comment="" />
+      <created>1584099119511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584099119511</updated>
+      <workItem from="1584099122309" duration="111000" />
+      <workItem from="1584099380043" duration="19597000" />
+      <workItem from="1584445314368" duration="62000" />
+      <workItem from="1584445538056" duration="1062000" />
+      <workItem from="1584518897447" duration="2942000" />
+      <workItem from="1585667047631" duration="6805000" />
+      <workItem from="1585735414545" duration="21662000" />
+      <workItem from="1585838960838" duration="11125000" />
+      <workItem from="1585918318567" duration="7606000" />
+      <workItem from="1585927184780" duration="3038000" />
+      <workItem from="1585942855934" duration="1071000" />
+      <workItem from="1585952491911" duration="395000" />
+      <workItem from="1585988857152" duration="5332000" />
+      <workItem from="1586462582827" duration="69000" />
+      <workItem from="1586553114479" duration="6598000" />
+      <workItem from="1587191932537" duration="3508000" />
+      <workItem from="1587553118584" duration="7930000" />
+      <workItem from="1587584840155" duration="1551000" />
+      <workItem from="1587715969215" duration="9127000" />
+      <workItem from="1587802995174" duration="2259000" />
+      <workItem from="1587815906680" duration="650000" />
+      <workItem from="1588256966680" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585846822233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585846822233" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1587804680977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587804680977" />
+    <state x="387" y="48" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1585842313014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="48" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585842313013" />
+    <state x="386" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587722576477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1587722576477" />
+    <state x="441" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585735993622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1585735993622" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1587815958750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587815958750" />
+    <state width="1367" height="209" key="GridCell.Tab.0.bottom" timestamp="1587805282006">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="209" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587805282006" />
+    <state width="1367" height="209" key="GridCell.Tab.0.center" timestamp="1587805282005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="209" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587805282005" />
+    <state width="1367" height="209" key="GridCell.Tab.0.left" timestamp="1587805282004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="209" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587805282004" />
+    <state width="1367" height="209" key="GridCell.Tab.0.right" timestamp="1587805282005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="209" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587805282005" />
+    <state width="1367" height="430" key="GridCell.Tab.1.bottom" timestamp="1587561084230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="430" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587561084230" />
+    <state width="1367" height="430" key="GridCell.Tab.1.center" timestamp="1587561084230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="430" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587561084230" />
+    <state width="1367" height="430" key="GridCell.Tab.1.left" timestamp="1587561084230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="430" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587561084230" />
+    <state width="1367" height="430" key="GridCell.Tab.1.right" timestamp="1587561084230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="430" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587561084230" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585667386151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585667386151" />
+    <state x="454" y="68" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587730831810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="68" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1587730831810" />
+    <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1584278847233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584278847233" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584266396743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1584266396743" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1585740013290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585740013290" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/JDK/src.zip!/org/omg/CORBA/IntHolder.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
